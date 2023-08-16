@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #202020;
+    color: white;
+
+}
+
+/* Estilo para centrar el h3 dentro del div */
+h3 {
+    text-align: center;
+  }
+  
